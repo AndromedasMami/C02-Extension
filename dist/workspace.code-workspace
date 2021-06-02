@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/Terrarium"
+		},
+		{
+			"path": "../../../../../Desktop/Typing Game"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Terrarium"
+	}
+}
